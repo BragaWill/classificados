@@ -17,7 +17,7 @@ Here are the technologies used in this project.
 
 Here are Core Gems used in this project.
 
-- gem 'devise'
+- gem 'bcrypt'
 
   See GemFile for more informations.
 
